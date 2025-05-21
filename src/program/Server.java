@@ -26,7 +26,7 @@ public class Server implements Hello {
 	}
 
 	public String sayBye() {
-		return "Bye, world";
+		return "Bye, world!";
 	}
 
 	public static void main(String args[]) {
